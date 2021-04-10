@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## Responsive Web Design
 
-You can use the [editor on GitHub](https://github.com/Mari-presh/Responsive-Web-Design/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here is a link to the live view of the project: https://mari-presh.github.io/Responsive-Web-Design/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
